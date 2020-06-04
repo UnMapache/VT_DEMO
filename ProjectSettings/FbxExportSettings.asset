@@ -8,12 +8,20 @@
         "launchAfterInstallation": true,
         "HideSendToUnityMenu": true,
         "BakeAnimation": true,
+<<<<<<< HEAD
         "integrationSavePath": "D:\\Documentos\\GitHub\\VT_DEMO",
+=======
+        "integrationSavePath": "D:\\AltspaceVR\\Git\\VT_DEMO",
+>>>>>>> 6b36b9dff49ec709273b5eda7aea60adee4b40a5
         "selectedDCCApp": 0,
         "prefabSavePaths": [
             "."
         ],
         "fbxSavePaths": [
+<<<<<<< HEAD
+=======
+            "Export",
+>>>>>>> 6b36b9dff49ec709273b5eda7aea60adee4b40a5
             "."
         ],
         "selectedFbxPath": 0,
@@ -21,10 +29,17 @@
         "dccOptionNames": [],
         "dccOptionPaths": [],
         "exportModelSettingsSerialize": {
+<<<<<<< HEAD
             "exportFormat": 0,
             "animatedSkinnedMesh": false,
             "mayaCompatibleNaming": true,
             "include": 2,
+=======
+            "exportFormat": 1,
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true,
+            "include": 0,
+>>>>>>> 6b36b9dff49ec709273b5eda7aea60adee4b40a5
             "lodLevel": 0,
             "objectPosition": 0,
             "exportUnrendered": true
