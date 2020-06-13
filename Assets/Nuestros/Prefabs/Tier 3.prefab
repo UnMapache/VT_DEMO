@@ -2076,6 +2076,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot@Bartending (2)
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9878c7ff370a1644faf36261f5b267f8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2151,16 +2161,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 06d40dc2e1401784eb420a0d2d5d7235, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9878c7ff370a1644faf36261f5b267f8, type: 3}
 --- !u!4 &6108372124027761330 stripped
@@ -3492,6 +3492,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot@Bartending
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9878c7ff370a1644faf36261f5b267f8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3567,16 +3577,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 06d40dc2e1401784eb420a0d2d5d7235, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9878c7ff370a1644faf36261f5b267f8, type: 3}
 --- !u!4 &6459494340721059858 stripped
@@ -12630,6 +12630,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot@Bartending (1)
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
     - target: {fileID: -4216859302048453862, guid: 9878c7ff370a1644faf36261f5b267f8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12705,11 +12710,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 06d40dc2e1401784eb420a0d2d5d7235, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9878c7ff370a1644faf36261f5b267f8, type: 3}
 --- !u!4 &2844331987195517945 stripped
@@ -13294,6 +13294,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot@Bartending (3)
       objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
+    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 9878c7ff370a1644faf36261f5b267f8,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13369,16 +13379,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 06d40dc2e1401784eb420a0d2d5d7235, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c56cb8e450783bc4bb3be94e1c948ae6, type: 2}
-    - target: {fileID: -6057140222963153312, guid: 9878c7ff370a1644faf36261f5b267f8,
-        type: 3}
-      propertyPath: m_ApplyRootMotion
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9878c7ff370a1644faf36261f5b267f8, type: 3}
 --- !u!4 &3333505982637906730 stripped
